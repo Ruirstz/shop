@@ -1,0 +1,23 @@
+.layout-logo{
+    width: 50px;
+    height: 30px;
+    border-radius: 3px;
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 120px;
+}
+.layout-nav{
+    margin-left:200px;
+    letter-spacing: 10px;
+    font-size:24px;
+
+}
+
+.collapsed-menu{
+    overflow: hidden;
+    background-color:#000 !important;
+}
+.collapsed-menu .ivu-menu-light{
+    background-color:#000 !important;
+}
